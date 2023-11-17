@@ -1,0 +1,22 @@
+body{
+    
+}
+.container{
+    margin: 150px 550px;
+}
+#value{
+    font-size: 130px;
+    margin-left: 80px;
+}
+.btn{
+    padding: 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.button-container{
+    padding: 12px;
+}
+h1{
+    margin-left: 40px;
+    font-size: 30px;
+}
